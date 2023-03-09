@@ -45,6 +45,12 @@ Installation
 - Import file tersebut ke phpMyAdmin anda
 - Jalankan localhost
 
+*****
+Admin
+*****
+- Username: admin
+- Password: 123
+
 *******
 License
 *******
