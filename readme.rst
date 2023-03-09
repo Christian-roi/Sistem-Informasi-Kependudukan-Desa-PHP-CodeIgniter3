@@ -39,8 +39,11 @@ issues, as well as missing features.
 Installation
 ************
 
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
+- Download ZIP Project Ini
+- Ekstrak pada Htdocs anda
+- Pada Folder "database" terdapat file "desa.sql"
+- Import file tersebut ke phpMyAdmin anda
+- Jalankan localhost
 
 *******
 License
